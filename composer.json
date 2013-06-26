@@ -1,5 +1,5 @@
 {
-    "name": "ajbdev/authorizenet-php-api",
+    "name": "piotr-m/authorizenet-php-api",
     "description": "Authorize.NET PHP library with composer support",
     "keywords": ["authorize.net","ecommerce","payment"],
     "type": "library",
